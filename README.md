@@ -4,6 +4,9 @@ Below i am giving Colab link for the codes and the questions:
 
 "https://colab.research.google.com/drive/1YUdxqCh05-NBWI8vlBPpmE3hD_7NpLzP?usp=sharing"
 
+Bellow is wandb report
+https://wandb.ai/tentuvenkatesh2-indian-institute-of-technology-madras/Fashion-MNIST-Images/reports/MA23M025-Venkatesh-Tentu--VmlldzoxMTY1NDcwNg
+
 Question-1:
 Download the fashion-MNIST dataset and plot 1 sample image for each class as shown in the grid below. Use from keras.datasets import fashion_mnist for getting the fashion mnist dataset.
 
