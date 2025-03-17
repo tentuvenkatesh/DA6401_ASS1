@@ -1,6 +1,8 @@
 All the solutions with the codes and outputs for this assigenment will be there in "DL_ASS1(2).ipynb".
 
-Below i am giving some best summary:
+Below i am giving Colab link for the codes and the questions:
+
+"https://colab.research.google.com/drive/1YUdxqCh05-NBWI8vlBPpmE3hD_7NpLzP?usp=sharing"
 
 Question-1:
 Download the fashion-MNIST dataset and plot 1 sample image for each class as shown in the grid below. Use from keras.datasets import fashion_mnist for getting the fashion mnist dataset.
